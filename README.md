@@ -1,4 +1,4 @@
-# Nameo-741 (Your Full Name Here)
+# Nameo-741 
 
 [Short tagline or role — e.g. "Software engineer ✦ Open-source enthusiast ✦ ML hobbyist"]
 
