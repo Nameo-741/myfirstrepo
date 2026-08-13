@@ -1,6 +1,6 @@
 # Nameo-741 
 
-[Short tagline or role — e.g. "Software engineer ✦ Open-source enthusiast ✦ ML hobbyist"]
+["Software engineer ✦ Open-source enthusiast ✦ ML hobbyist"]
 
 ---
 
