@@ -5,7 +5,7 @@
 ---
 
 ## About Me
-Hi — I'm **Your Full Name**, a [role, e.g. "full‑stack developer"] based in [City, Country]. I work on [brief description of what you build or focus on]. I enjoy learning new technologies, contributing to open-source, and building projects that solve real problems.
+Hi — I'm **PUTTA YELLA REDDY**, a [role, e.g. "full‑stack developer"] based in [City, Country]. I work on [brief description of what you build or focus on]. I enjoy learning new technologies, contributing to open-source, and building projects that solve real problems.
 
 - 🔭 Currently working on: [project or area]
 - 🌱 Currently learning: [topics]
