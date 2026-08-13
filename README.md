@@ -5,22 +5,13 @@
 ---
 
 ## About Me
-Hi — I'm **PUTTA YELLA REDDY**, a [role, e.g. "full‑stack developer"] based in [City, Country]. I work on [brief description of what you build or focus on]. I enjoy learning new technologies, contributing to open-source, and building projects that solve real problems.
-
-- 🔭 Currently working on: [project or area]
-- 🌱 Currently learning: [topics]
-- 👯 Looking to collaborate on: [topics/projects]
-- 💬 Ask me about: [skills or domains]
-- ⚡ Fun fact: [optional short personal note]
+Hi — I'm **PUTTA YELLA REDDY**, a CSE STUDENT in MGIT college. I enjoy learning new technologies, contributing to open-source, and building projects that solve real problems.
 
 ---
 
 ## Quick Links
-- Website: https://your-website.example
-- Email: your.email@example.com
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Twitter/X: https://twitter.com/yourhandle
-- Resume / CV: https://link-to-resume.example
+- Email: pyellareddy_cse2405b0@mgit.ac.in
+- LinkedIn: https://linkedin.com/in/Yellareddy
 - GitHub: https://github.com/Nameo-741
 
 ---
@@ -35,8 +26,6 @@ Hi — I'm **PUTTA YELLA REDDY**, a [role, e.g. "full‑stack developer"] based 
 
 ---
 
-## Selected Projects
-Note: replace the examples below with your real projects and links.
 
 ### Project Name 1
 - Description: Short description of what it does and why.
